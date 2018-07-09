@@ -1,2 +1,4 @@
 # Natours
-A landing page built with advanced CSS and Sass learning responsive design within the Advanced CSS and Sass Udemy Course
+A landing page built with advanced CSS and Sass using float layouts for responcive design.
+
+The project is built within the Advanced CSS and Sass Udemy Course by Jonas Schmedtmann
